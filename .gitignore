@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.pbit.tmp
+
+# Runtime logs
+logs/
